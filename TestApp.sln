@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{88076244-2A55-422C-A7D1-C1C65D9DE748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "TestApp\TestApp.csproj", "{88076244-2A55-422C-A7D1-C1C65D9DE748}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAppApi", "TestAppApi\TestAppApi.csproj", "{4B77B0DD-17C9-40BB-9733-B9EFBF32AC69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestAppApi", "TestAppApi\TestAppApi.csproj", "{4B77B0DD-17C9-40BB-9733-B9EFBF32AC69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp.Contracts", "TestApp.Contracts\TestApp.Contracts.csproj", "{AFBFEBBA-DCD1-4969-A2D6-F8092D049B27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.Contracts", "TestApp.Contracts\TestApp.Contracts.csproj", "{AFBFEBBA-DCD1-4969-A2D6-F8092D049B27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
